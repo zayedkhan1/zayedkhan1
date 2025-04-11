@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zayedkhan1&label=Profile%20views&color=0e75b6&style=flat" alt="zayedkhan1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zayedkhan1" alt="zayedkhan1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zayed khan" target="blank"><img src="https://img.shields.io/twitter/follow/zayed khan?logo=twitter&style=for-the-badge" alt="zayed khan" /></a> </p>
 
