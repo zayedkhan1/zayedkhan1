@@ -2,7 +2,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)]
 <h1 align="center">Hi 👋, I'm Zayed_Khan</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src=" https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.21kschool.com/ph/wp-content/uploads/sites/26/2023/07/Coding.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zayedkhan1&label=Profile%20views&color=0e75b6&style=flat" alt="zayedkhan1" /> </p>
 
