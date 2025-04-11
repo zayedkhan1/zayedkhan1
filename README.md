@@ -1,4 +1,5 @@
-[![MasterHead]https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMaruf001-MT%2FMaruf001-MT&psig=AOvVaw0EyggXFM-OubEyLzmyBu5t&ust=1744431574862000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCX6MiPz4wDFQAAAAAdAAAAABAJ]
+
+[![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)]
 <h1 align="center">Hi 👋, I'm Zayed_Khan</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src=" https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg">
